@@ -1,3 +1,10 @@
+# vs code
+.vscode/
+
+# idea
+out/
+*.iml
+
 # Compiled class file
 *.class
 
